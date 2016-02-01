@@ -1,4 +1,4 @@
-Posted on <a href="" target="_blank">RPubs</a>  
+Posted on <a href="http://rpubs.com/chunk74/rr_peer2" target="_blank">RPubs</a>  
 [Reproducible Research - Peer Assessment #2](https://github.com/chunk74/RepData_PeerAssessment2)  
 
 ### Introduction
